@@ -1,4 +1,4 @@
-# Hyprland Keyboard Layout Fix
+# Hyprland Keyboard Layout Fix (For Arhc Linux)
 Tutorial: Paste the following Text into the terminal and change the variable at the start to your language.
 Examples: LANGUAGE="de" LANGUAGE="us"
 Command: 
